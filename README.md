@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandipanMondal123
-- 👀 I’m interested in software development, particularly backend with the occasional reach towards front end as well
-- 🌱 I’m currently learning about computer architecture and numerical analysis 
+- 👀 I’m interested in software development, particularly in Android Development
+- 🌱 I’m currently learning about Software Methedology and learning about Android development
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: email- office.smondal@gmail.com
 
