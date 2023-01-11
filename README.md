@@ -5,11 +5,11 @@ HELLOOO![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 Software Engineer
 -----------------
 
-I've been coding since I was 14 and I will never stop!
+I've been coding since I was 14 and I don't think I'll be stopping anytime soon
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [office.smondal@gmail.com](mailto:office.smondal@gmail.com)
-* ⚡  I still play Wizard101
+* ⚡  I still play Wizard101 (level 126 Ice, level 69 Balance, level 68 Fire)
 
 ### Skills
 
