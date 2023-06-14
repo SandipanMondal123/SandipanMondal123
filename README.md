@@ -9,7 +9,7 @@ I've been coding since I was 14 and I don't think I'll be stopping anytime soon
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [office.smondal@gmail.com](mailto:office.smondal@gmail.com)
-* ⚡  I still play Wizard101 (level 126 Ice, level 69 Balance, level 83 Storm)
+* ⚡ Wizard101 (level 126 Ice, level 69 Balance, level 83 Storm)
 
 ### Skills
 
