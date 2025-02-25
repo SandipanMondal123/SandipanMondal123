@@ -7,4 +7,3 @@ Software Engineer
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [office.smondal@gmail.com](mailto:office.smondal@gmail.com)
-* ⚡ Wizard101 (level 126 Ice, level 69 Balance, level 83 Storm)
